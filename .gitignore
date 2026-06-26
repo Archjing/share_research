@@ -2,3 +2,7 @@ data/
 tmp/
 .env
 config.yaml
+.claude
+.agents
+data/
+config.yaml
