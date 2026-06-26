@@ -3,6 +3,6 @@ tmp/
 .env
 config.yaml
 .claude
-.agents
+.agents/
 data/
 config.yaml
